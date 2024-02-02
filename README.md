@@ -6,6 +6,6 @@ commands:
 
 Note: 
 By default super user 
-email: aaa@gmail.com
+email: "aaa@gmail .com"
 password: aaa
 Enter your valid email in settings.py with 2 factor Authentication password
